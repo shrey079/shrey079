@@ -1,6 +1,6 @@
 # Hi, I'm Shrey 👋🏾 💻
 
-I'm a 2nd-year Computer Science student at the University of Waterloo. Some languages I enjoy working with include JavaScript, Python and C++. Currently, in School, I am learning about Data Structures, Algorithm's, and low-level machine code languages such as MIPS and ARM. I am also learning about Full Stack Web Development as well as the SDLC! In my free time, I like to play basketball, listen to music or play some video games!
+I'm a 2nd-year Computer Science student at the University of Waterloo. Some languages I enjoy working with include JavaScript, Python and C++. Currently, in School, I am learning about Data Structures, Algorithm's, and low-level machine code languages such as MIPS and ARM. I am also learning about Full Stack Web Development as well as the SDLC on the side! In my free time, I like to play basketball, listen to music or play some video games!
 
 ## Find me around the web 🌎:
 - <a href="https://www.shreypatel.tech">Shreypatel.tech</a> 📹 ✍🏾
